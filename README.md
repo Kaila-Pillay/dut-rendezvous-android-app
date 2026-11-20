@@ -1,7 +1,7 @@
 
 # DUT Rendezvous – Android Restaurant Management Application
 
-Android restaurant management application developed for DUT Rendezvous restaurant, built using Kotlin and Android Studio.
+Academic Android application developed as a proposed restaurant management solution for DUT Rendezvous, built using Kotlin and Android Studio.
 
 ## Project Overview
 
